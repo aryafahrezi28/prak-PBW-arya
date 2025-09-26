@@ -1,4 +1,4 @@
-# Praktikum 1: Aplikasi PHP Dasar - Form Pendaftaran Even
+# Praktikum 1: Aplikasi PHP Dasar - Form Pendaftaran Event
 Aplikasi ini dibuat untuk memenuhi tugas praktikum dasar PHP. Aplikasi ini merupakan form pendaftaran sederhana untuk sebuah event fiktif.
 
 ## Deskripsi & Fitur
